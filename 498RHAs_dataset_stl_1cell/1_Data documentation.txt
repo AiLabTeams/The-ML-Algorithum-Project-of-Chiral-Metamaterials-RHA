@@ -1,0 +1,7 @@
+'180R100_1_1.stl'
+str: structure number 
+structure 3D file ('180R100_str_1.stl') and its paner ('L25nm_R100nm_str_2.png')
+
+'180R100_str_layer.stl'
+layer=1: '180R100_str_1.stl'
+layer=1+2: '180R100_str_2.stl'

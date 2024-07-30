@@ -1,0 +1,2 @@
+'L25nm_R100nm_1_2.png'
+str: structure number ('L25nm_R100nm_str_2.png')

@@ -1,0 +1,21 @@
+'RHA_peak_value_and parameters.xlsx'
+
+Oad1: azimuth angle of first layer
+Oad2: azimuth angle of second layer
+Inc1: Incident angle of first layer
+Inc2: Incident angle of second layer
+dOad =  Oad1 - Oad2
+dInc =  Inc1 - Inc2
+str: structure number
+Dt = T(RCP) - T(LCP) = dT
+Dt_abs = |Dt|
+CD = Dt*32.98°
+CD_abs = |CD|
+
+'RHA_T_RL.xlsx'
+T(RCP1), T(LCP1), T(RCP2), T(LCP2),...,T(RCP498), T(LCP498), Wavelength(nm)[column997]
+2 columns is one structure, the angular parameters in row number of 'RHA_peak_value_and parameters.xlsx'
+
+'RHA_dT_RL.xlsx'
+T(dT1), T(dT2), T(dT3), ...,T(dT498), Wavelength(nm)[column499]
+2 columns is one structure, the angular parameters in row number of 'RHA_peak_value_and parameters.xlsx'

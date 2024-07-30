@@ -1,0 +1,11 @@
+Oad1: azimuth angle of first layer
+Oad2: azimuth angle of second layer
+Inc1: Incident angle of first layer
+Inc2: Incident angle of second layer
+dOad =  Oad1 - Oad2
+dInc =  Inc1 - Inc2
+str: structure number
+Dt = T(RCP) - T(LCP)
+Dt_abs = |Dt|
+CD = Dt*32.98°
+CD_abs = |CD|
